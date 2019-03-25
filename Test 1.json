@@ -1,1 +1,1 @@
-{"rules":[{"rule":{"rep":"[V:*⇒V:1]"},"priority":1}],"key":"t1","map":{5100:{"word":"hello","id":5100,"forms":{},"synonyms":[]}},"name":"Test 1","numeralBase":10}
+{"rules":[{"rule":{"rep":"[V:*⇒V:1]"},"priority":1}],"key":"t1","map":{"5100":{"word":"hello","id":5100,"forms":{},"synonyms":[]}},"name":"Test 1","numeralBase":10}
